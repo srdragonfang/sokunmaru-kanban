@@ -16,7 +16,6 @@ const inprogressDOM = getElement("#inprogress");
 const emergencyDOM = getElement("#emergency");
 const testingDOM = getElement("#testing");
 const doneDOM = getElement("#done");
-const removeDOM = getElement("#remove");
 /* ------------------------------- task input ------------------------------- */
 const taskInput = getElement("#task-input");
 const taskSubmit = getElement("#task-submit");
